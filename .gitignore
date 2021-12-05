@@ -1,0 +1,12 @@
+# web driver
+chromedriver.exe
+chromedriver_win32.zip
+
+# venv
+lib
+Include
+Scripts
+pyvenv.cfg
+
+# assets
+scraped_images/*
